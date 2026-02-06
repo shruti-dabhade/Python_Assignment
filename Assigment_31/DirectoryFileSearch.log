@@ -1,0 +1,7 @@
+2026-02-06 22:33:10,021 : ERROR : Invalid number of arguments
+2026-02-06 22:33:10,021 : INFO : Usage: DirectoryFileSearch.py <DirectoryName> <Extension>
+2026-02-06 22:38:01,758 : ERROR : Directory does not exist
+2026-02-06 22:38:34,222 : ERROR : Invalid number of arguments
+2026-02-06 22:38:34,222 : INFO : Usage: DirectoryFileSearch.py <DirectoryName> <Extension>
+2026-02-06 22:40:13,622 : ERROR : Invalid number of arguments
+2026-02-06 22:40:13,622 : INFO : Usage: DirectoryFileSearch.py <DirectoryName> <Extension>
